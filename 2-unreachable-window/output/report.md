@@ -190,13 +190,13 @@ One draft per suggestion, for you to review and send.
 
 | Customer | Id | Address | Why |
 |---|---|---|---|
-| Jorge Scott | C-1190 | PO Box 233 | placed 1415 km away () |
+| Jorge Scott | C-1190 | PO Box 233 | placed 1415 km away (Sherwood Forest, Maryville 37802) |
 | Kevin Davis | C-1075 | 6300 East US 290 Frontage Road, Austin, TX 78752 | not found on the map |
 | Anthony Lee | C-1187 | 2501 West Parmer Lane, Austin, TX 78727 | not found on the map |
 | Sandra Hall | C-1158 | TBD | no address |
 | Mark Lopez | C-1124 | Austin TX | matched only an area (Austin) |
 | Rosa Carter | C-1142 | 2514 West Parmer Lane, Austin, TX 78727 | not found on the map |
-| Anthony Wilson | C-1019 | PO Box 120 | placed 1415 km away () |
+| Anthony Wilson | C-1019 | PO Box 120 | placed 1415 km away (Sherwood Forest, Maryville 37802) |
 | Linda Mitchell | C-1018 | TBD | no address |
 | Richard Rivera | C-1120 | 6711 Manchaca Road, Austin, TX 78745 | street matched in another postcode (78748, not 78745) |
 
