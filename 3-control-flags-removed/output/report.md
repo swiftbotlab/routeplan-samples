@@ -193,7 +193,7 @@ One draft per suggestion, for you to review and send.
 
 | Customer | Id | Address | Why |
 |---|---|---|---|
-| Jorge Scott | C-1191 | PO Box 233 | placed 1415 km away (Post Office Drive Up Box, Sherwood Forest, Maryvil) |
+| Jorge Scott | C-1191 | PO Box 233 | placed 1415 km away () |
 | Kevin Davis | C-1076 | 6300 East US 290 Frontage Road, Austin, TX 78752 | not found on the map |
 | Daniel Harris | C-1920 | 4005 Banister Ln, Austin, TX 78704 | not found on the map |
 | Donna Young | C-1918 | 6216 Ed Bluestein Boulevard, Austin, TX 78724 | not found on the map |

@@ -189,7 +189,7 @@ One draft per suggestion, for you to review and send.
 | Customer | Id | Address | Why |
 |---|---|---|---|
 | Kevin Davis | C-1076 | 6300 East US 290 Frontage Road, Austin, TX 78752 | not found on the map |
-| Jorge Scott | C-1191 | PO Box 233 | placed 1415 km away (Post Office Drive Up Box, Sherwood Forest, Maryvil) |
+| Jorge Scott | C-1191 | PO Box 233 | placed 1415 km away () |
 | Anthony Lee | C-1188 | 2501 West Parmer Lane, Austin, TX 78727 | not found on the map |
 | Mark Lopez | C-1125 | Austin TX | matched only an area (Austin) |
 | Rosa Carter | C-1143 | 2514 West Parmer Lane, Austin, TX 78727 | not found on the map |
