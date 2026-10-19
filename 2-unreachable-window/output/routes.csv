@@ -1,0 +1,19 @@
+﻿Day,Crew member,Stop,Job,Customer,Address,Arrive,Start,Finish,Window,Skill,Drive from previous (min),Wait (min)
+Tue 20 Oct 2026,Dana Ruiz,1,J-004,Amanda Hill,"1205 Sheldon Cove, Austin, TX 78753",07:38,09:00,10:00,09:00-11:00,plumbing,8.2,82
+Tue 20 Oct 2026,Dana Ruiz,2,J-013,Betty Torres,"2512 Wheless Lane, Austin, TX 78723",10:09,10:09,11:09,10:00-12:00,hvac,9.0,0
+Tue 20 Oct 2026,Dana Ruiz,3,J-012,Emily Wright,"5701 Springdale Road, Austin, TX 78723",11:13,11:13,12:13,any time,plumbing,4.3,0
+Tue 20 Oct 2026,Dana Ruiz,4,J-015,Donna Smith,"700 Lavaca Street, Austin, TX 78701",12:24,12:24,14:24,12:00-16:00,plumbing,11.2,0
+Tue 20 Oct 2026,Dana Ruiz,5,J-006,Steven Thompson,"6100 East Riverside Drive, Austin, TX 78741",14:34,14:34,15:34,14:00-16:00,plumbing,10.3,0
+Tue 20 Oct 2026,Marcus Lee,1,J-005,Barbara Mitchell,"2407 Berkeley Avenue, Austin, TX 78745",08:06,08:06,09:21,any time,hvac,6.1,0
+Tue 20 Oct 2026,Marcus Lee,2,J-011,Sandra Lee,"8700 Menchaca Road, Austin, TX 78748",09:25,09:25,09:55,08:00-12:00,hvac,4.5,0
+Tue 20 Oct 2026,Marcus Lee,3,J-003,Donna Moore,"2021 East Riverside Drive, Austin, TX 78741",10:11,10:11,10:56,08:00-12:00,hvac,15.6,0
+Tue 20 Oct 2026,Marcus Lee,4,J-009,Steven Roberts,"300 East 4th Street, Austin, TX 78701",11:03,11:03,11:33,any time,hvac,7.1,0
+Tue 20 Oct 2026,Marcus Lee,5,J-014,Fatima Moore,"1809 Randolph Ridge Trail, Austin, TX 78746",11:46,12:00,13:30,12:00-16:00,hvac,12.8,14
+Tue 20 Oct 2026,Priya Shah,1,J-007,Andrew Johnson,"500 East Saint John's Avenue, Austin, TX 78752",07:08,07:08,08:08,any time,plumbing,8.5,0
+Tue 20 Oct 2026,Priya Shah,2,J-016,Joseph Carter,"11705 North Lamar Boulevard, Austin, TX 78753",08:16,08:16,09:01,08:00-12:00,plumbing,8.3,0
+Tue 20 Oct 2026,Priya Shah,3,J-001,Kevin Anderson,"10902 Windridge Drive, Austin, TX 78759",09:17,09:17,10:02,08:00-12:00,plumbing,15.7,0
+Tue 20 Oct 2026,Priya Shah,4,J-002,Omar Okafor,"2712 Bee Caves Road, Austin, TX 78746",10:22,10:22,11:07,any time,plumbing,20.2,0
+Tue 20 Oct 2026,Priya Shah,5,J-018,Sandra Rivera,"1020 Grove Boulevard, Austin, TX 78741",11:25,11:25,12:10,any time,plumbing,17.4,0
+Tue 20 Oct 2026,Priya Shah,6,J-008,Jorge White,"4600 Teri Road, Austin, TX 78744",12:21,12:21,12:51,12:00-16:00,electrical,11.1,0
+Tue 20 Oct 2026,Priya Shah,7,J-017,Jorge Martinez,"111 West William Cannon Drive, Austin, TX 78745",12:57,13:00,14:00,13:00-15:00,plumbing,6.6,2
+Tue 20 Oct 2026,Priya Shah,8,J-010,Jessica Carter,"1005 Kramer Lane, Austin, TX 78758",14:22,14:22,14:52,14:00-16:00,electrical,22.8,0

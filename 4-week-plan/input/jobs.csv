@@ -1,0 +1,55 @@
+Job ID,Date,Customer,Address,Duration (min),Window Start,Window End,Skill Required
+J-053,2026-10-30,Nancy Brown,"741 Dalton Lane, Austin, TX 78742",75,,,hvac
+J-007,2026-10-26,Thomas Rivera,"7102 Meadowood Drive, Austin, TX 78723",45,12:00,16:00,plumbing
+J-006,2026-10-26,Wei Mitchell,"1801 East 51st Street, Austin, TX 78723",45,14:00,16:00,plumbing
+J-039,2026-10-30,Wei Lopez,"5608 Parkcrest Drive, Austin, TX 78731",60,,,plumbing
+J-036,2026-10-29,Joshua Allen,"10307 Morado Cove, Austin, TX 78759",60,13:00,15:00,plumbing
+J-016,2026-10-26,Carlos Brown,"1908 Kramer Lane, Austin, TX 78758",30,12:00,16:00,hvac
+J-003,2026-10-26,William Jackson,"3811 East 12th Street, Austin, TX 78721",45,14:00,16:00,plumbing
+J-035,2026-10-28,Michelle White,"3908 West Braker Lane, Austin, TX 78759",60,11:00,13:00,hvac
+J-043,2026-10-30,Barbara Flores,"2508 East Riverside Drive, Austin, TX 78741",45,,,hvac
+J-042,2026-10-30,Thomas King,"1901 West Braker Lane, Austin, TX 78758",90,,,plumbing
+J-054,2026-10-30,Joshua Young,"10610 Morado Circle, Austin, TX 78759",45,08:00,12:00,hvac
+J-019,2026-10-27,Michelle Walker,"1845 Burton Drive, Austin, TX 78741",75,,,hvac
+J-020,2026-10-28,Omar Clark,"4631 Airport Boulevard, Austin, TX 78751",60,12:00,16:00,electrical
+J-011,2026-10-26,David Lewis,"4534 Westgate Boulevard, Austin, TX 78745",90,08:00,11:00,plumbing
+J-009,2026-10-26,Susan Scott,"101 West Koenig Lane, Austin, TX 78751",90,,,plumbing
+J-047,2026-10-30,Sarah Hall,"7112 Ed Bluestein Boulevard, Austin, TX 78723",120,08:00,12:00,plumbing
+J-002,2026-10-26,Omar Wilson,"8700 Menchaca Road, Austin, TX 78748",30,08:00,12:00,electrical
+J-051,2026-10-30,William Anderson,"11701 Domain Blvd, Austin, TX 78758",75,,,hvac
+J-040,2026-10-30,Emily Johnson,"7800 South 1st Street, Austin, TX 78745",60,09:00,11:00,plumbing
+J-032,2026-10-28,Lisa Patel,"10902 Windridge Drive, Austin, TX 78759",60,09:00,11:00,plumbing
+J-017,2026-10-27,Elizabeth Carter,"13000 North Lamar Boulevard, Austin, TX 78753",30,11:00,13:00,hvac
+J-013,2026-10-26,Lisa Sanchez,"8015 Shoal Creek Boulevard, Austin, TX 78757",90,,,hvac
+J-026,2026-10-28,Sarah Walker,"5914 Lost Horizon Drive, Austin, TX 78759",30,08:00,10:00,plumbing
+J-031,2026-10-28,Betty Carter,"2223 Waterloo City Lane, Austin, TX 78741",90,12:00,16:00,plumbing
+J-022,2026-10-28,Omar Torres,"6216 Ed Bluestein Boulevard, Austin, TX 78724",60,,,electrical
+J-038,2026-10-29,Anthony Green,"1207 East Dean Keeton Street, Austin, TX 78722",75,,,hvac
+J-015,2026-10-26,Elena Brown,"7000 Hester Road, Austin, TX 78725",45,12:00,16:00,hvac
+J-030,2026-10-28,Omar Wilson,"2901 S Capital Of Texas Hwy Ste F4, Austin, TX 78746",60,11:00,13:00,electrical
+J-037,2026-10-29,William Thompson,"7612 Cooper Lane, Austin, TX 78745",45,,,electrical
+J-024,2026-10-28,Patricia Brown,"4006 South Lamar Boulevard, Austin, TX 78704",60,14:00,16:00,hvac
+J-027,2026-10-28,Anthony Chen,"1605 East Oltorf, Austin, TX 78741",30,,,plumbing
+J-049,2026-10-30,Patricia Campbell,"3600 Silver Dollar Circle, Austin, TX 78744",120,08:00,12:00,plumbing
+J-008,2026-10-26,Joshua Robinson,"4600 Teri Road, Austin, TX 78744",60,08:00,12:00,hvac
+J-033,2026-10-28,Michelle Scott,"1900 East Oltorf Street, Austin, TX 78741",30,08:00,12:00,hvac
+J-028,2026-10-28,Sandra Campbell,"2821 San Jacinto Boulevard, Austin, TX 78705",75,09:00,12:00,electrical
+J-029,2026-10-28,Betty Hall,"11700 Metric Boulevard, Austin, TX 78758",90,09:00,12:00,hvac
+J-045,2026-10-30,Maria Okafor,"6517 Cascada Drive, Austin, TX 78750",75,,,plumbing
+J-014,2026-10-26,Betty Hall,"401 Deep Eddy Avenue, Austin, TX 78703",90,09:00,12:00,plumbing
+J-004,2026-10-26,Kevin Ramirez,"3300 Duval Road, Austin, TX 78759",120,08:00,12:00,plumbing
+J-048,2026-10-30,Donna Mitchell,"1001 East 52nd Street, Austin, TX 78751",75,08:00,12:00,plumbing
+J-041,2026-10-30,Brian Hall,"3604 Axel Lane, Austin, TX 78721",30,12:00,16:00,hvac
+J-010,2026-10-26,Steven Anderson,"4600 Seton Center Parkway, Austin, TX 78759",75,12:00,16:00,plumbing
+J-001,2026-10-26,Donna Baker,"501 West Powell Lane, Austin, TX 78753",120,,,hvac
+J-034,2026-10-28,Jessica Walker,"2407 South Congress Avenue, Austin, TX 78704",120,14:00,17:00,plumbing
+J-023,2026-10-28,Joshua Lee,"11150 Research Boulevard, Austin, TX 78759",30,,,electrical
+J-052,2026-10-30,Robert Walker,"6700 West Gate Boulevard, Austin, TX 78745",45,,,electrical
+J-021,2026-10-28,Omar Walker,"7501 Longview Road, Austin, TX 78745",45,08:00,12:00,hvac
+J-025,2026-10-28,Donna Okafor,"6518 Ed Bluestein Boulevard, Austin, TX 78723",90,,,plumbing
+J-044,2026-10-30,Daniel Brown,"3903 Warehouse Row, Austin, TX 78704",45,,,electrical
+J-005,2026-10-26,Linda Smith,"7000 Woodhue Drive, Austin, TX 78745",45,12:00,16:00,hvac
+J-018,2026-10-27,William Baker,"4477 South Lamar Boulevard, Austin, TX 78745",45,08:00,12:00,hvac
+J-012,2026-10-26,Luis Harris,"4601 Pecan Brook Drive, Austin, TX 78724",90,,,plumbing
+J-046,2026-10-30,Wei Okafor,"1931 E Oltorf St, Austin, TX 78741",120,08:00,12:00,electrical
+J-050,2026-10-30,Joseph Martinez,"205 East Monroe Street, Austin, TX 78704",45,,,hvac

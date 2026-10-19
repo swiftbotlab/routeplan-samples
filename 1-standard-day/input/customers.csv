@@ -1,0 +1,204 @@
+Customer ID,Name,Address,Last Service Date,Service Plan,Next Service Date,Service Type,Do Not Contact,Opted Out,Open Quote,Phone,Email
+C-1149,Mei Lewis,"10910 Domain Drive, Austin, TX 78758",2026-05-27,,,Plumbing inspection,,,,,mei.lewis148@example.com
+C-1182,Susan Mitchell,"200 West 24th Street, Austin, TX 78705",Nov 16 2025,quarterly,,HVAC maintenance,,,,,susan.mitchell181@example.com
+C-1047,James Rivera,"2505 Webberville Road, Austin, TX 78702",4/9/2026,,2026-10-20,HVAC maintenance,,,,(512) 555-0123,james.rivera46@example.com
+C-1011,Anthony Allen,"1100 Center Ridge Drive, Austin, TX 78753",2025-10-18,,,Water heater flush,yes,,,,anthony.allen10@example.com
+C-1185,Betty Ramirez,"120 Inner Campus Drive, Austin, TX 78712",1/3/2026,annual,,Drain cleaning,,,,,betty.ramirez184@example.com
+C-1051,Thomas Davis,"1825 Fort View Road, Austin, TX 78704",7/8/2026,quarterly,,Water heater flush,,,,,thomas.davis50@example.com
+C-1163,William Rivera,"205 West 24th Street, Austin, TX 78705",8/14/2026,,2026-09-12,AC tune-up,,,,(512) 555-0189,william.rivera162@example.com
+C-1194,Michael Moore,"100 Stonehollow Drive, Austin, TX 78758",May 4 2026,,2026-10-26,AC tune-up,,,,,michael.moore193@example.com
+C-1142,Carlos King,"505 West Yager Lane, Austin, TX 78753",2026-07-14,every 6 months,,HVAC maintenance,yes,,,,carlos.king141@example.com
+C-1046,Linda Thomas,"9041 Research Boulevard, Austin, TX 78758",Nov 17 2025,annual,,Electrical safety check,,,,(512) 555-0122,linda.thomas45@example.com
+C-1152,Wei Clark,"3637 Far West Boulevard, Austin, TX 78731",Dec 5 2025,,,HVAC maintenance,,,,,wei.clark151@example.com
+C-1004,Daniel Sanchez,"8565 Research Boulevard, Austin, TX 78758",11/14/2025,,2026-09-19,Water heater flush,,,,(512) 555-0101,daniel.sanchez3@example.com
+C-1080,Betty Nelson,"2020 East 7th Street, Austin, TX 78702",Apr 13 2026,annual,,AC tune-up,,,,,betty.nelson79@example.com
+C-1195,Raj White,"9820 Neils Thompson Drive, Austin, TX 78758",2025-11-22,,2026-10-11,Water heater flush,,,,,raj.white194@example.com
+C-1017,Emily Baker,"900 West 38th Street, Austin, TX 78705",,,,Electrical safety check,,,,,emily.baker16@example.com
+C-1168,Sarah Chen,"100 East 24th Street, Austin, TX 78712",2026-04-01,semi-annual,,Water heater flush,,,,,sarah.chen167@example.com
+C-1050,Wei Jackson,"3705 Medical Parkway, Austin, TX 78705",2026-05-06,,2026-09-24,Plumbing inspection,,,,(512) 555-0125,wei.jackson49@example.com
+C-1132,David Martin,"617 Red River Street, Austin, TX 78701",2025-11-01,,,Electrical safety check,,,,(512) 555-0172,david.martin131@example.com
+C-1032,Carol Anderson,"3901 South Lamar Boulevard, Austin, TX 78704",12/23/2025,,,Furnace check,,,,,carol.anderson31@example.com
+C-1178,Patricia Johnson,"1844 Teri Road, Austin, TX 78744",Mar 5 2026,,,AC tune-up,,,yes,,patricia.johnson177@example.com
+C-1044,Maria Moore,"2310 Manor Road, Austin, TX 78722",2025-12-02,,,Drain cleaning,,,,,maria.moore43@example.com
+C-1009,Sandra Martin,"8606 Cameron Loop, Austin, TX 78745",2026-01-20,90 days,,Electrical safety check,,,,(512) 555-0104,sandra.martin8@example.com
+C-1090,Ana Allen,"8000 Research Boulevard, Austin, TX 78758",2025-11-01,,,Electrical safety check,,,,,ana.allen89@example.com
+C-1140,Ashley Smith,"500 East Ben White, Austin, TX 78704",2026-02-16,,,Electrical safety check,,,,(512) 555-0175,ashley.smith139@example.com
+C-1135,Andrew Carter,"2800 South Interstate 35, Austin, TX 78704",2026-06-23,,,Water heater flush,,,yes,(512) 555-0173,andrew.carter134@example.com
+C-1031,Carlos Allen,"1023 Springdale Road, Austin, TX 78721",,,,AC tune-up,,,,,carlos.allen30@example.com
+C-1089,Sandra Baker,"3924 Berkman Drive, Austin, TX 78723",2026-01-07,90 days,,HVAC maintenance,,,,(512) 555-0147,sandra.baker88@example.com
+C-1165,Lisa Okafor,"6600 Woodrow Avenue, Austin, TX 78757",1/17/2026,semi-annual,,Drain cleaning,,,,,lisa.okafor164@example.com
+C-1001,Emily Campbell,"1417 W. William Cannon Drive, Austin, TX 78745",2026-07-17,,,Plumbing inspection,,,,,emily.campbell0@example.com
+C-1097,Andrew White,"10225 Research, Austin, TX 78759",9/12/2026,annual,,Furnace check,,,,(512) 555-0151,andrew.white96@example.com
+C-1116,Barbara Carter,"2609 University Avenue, Austin, TX 78712",2/5/2026,every 6 months,,Drain cleaning,,,,(512) 555-0164,barbara.carter115@example.com
+C-1062,Luis Nguyen,"5015 Duval Street, Austin, TX 78751",2026-07-29,quarterly,,Electrical safety check,,,,(512) 555-0130,luis.nguyen61@example.com
+C-1005,Carol Sanchez,TBD,1/1/2026,,,Electrical safety check,,,,,carol.sanchez4@example.com
+C-1160,Lisa Lewis,"501 Congress Avenue, Austin, TX 78701",Oct 16 2025,90 days,,Water heater flush,,,,(512) 555-0188,lisa.lewis159@example.com
+C-1144,Anthony Clark,"2337 E Cesar Chavez St, Austin, TX 78702",7/24/2026,90 days,,Plumbing inspection,,,,(512) 555-0177,anthony.clark143@example.com
+C-1039,Elena Nelson,TBD,,,,Electrical safety check,,Y,,(512) 555-0121,elena.nelson38@example.com
+C-1196,Susan Chen,"2505 University Avenue, Austin, TX 78712",2025-10-24,semi-annual,,Plumbing inspection,,,,,susan.chen195@example.com
+C-1159,Sandra Hall,"9420 Research Boulevard, Austin, TX 78759",2026-04-14,,,Drain cleaning,,,,(512) 555-0187,sandra.hall158@example.com
+C-1076,Kevin Davis,"6300 East US 290 Frontage Road, Austin, TX 78752",Sep 6 2025,,,Drain cleaning,,,,(512) 555-0139,kevin.davis75@example.com
+C-1123,Jennifer Adams,"2208 Energy Drive, Austin, TX 78758",,,,Electrical safety check,,,,(512) 555-0167,jennifer.adams122@example.com
+C-1173,Raj Thomas,"2500 Guadalupe Street, Austin, TX 78705",2026-08-14,,,Water heater flush,,,,,raj.thomas172@example.com
+C-1101,Donna Jackson,"1104 West 34th Street, Austin, TX 78705",7/29/2026,,,AC tune-up,,,,(512) 555-0154,donna.jackson100@example.com
+C-1084,Elena Hall,"310 Colorado Street, Austin, TX 78701",2026-01-01,quarterly,,Plumbing inspection,,,,(512) 555-0143,elena.hall83@example.com
+C-1129,Robert Patel,"2200 Denton Drive, Austin, TX 78758",2025-10-27,annual,,Drain cleaning,,,,(512) 555-0169,robert.patel128@example.com
+C-1070,Karen Young,"1514 Holly Street, Austin, TX 78702",5/28/2026,quarterly,,Plumbing inspection,,,,(512) 555-0135,karen.young69@example.com
+C-1186,Michelle Mitchell,"5501 Burnet Road, Austin, TX 78756",2025-09-03,,,AC tune-up,,,,,michelle.mitchell185@example.com
+C-1074,Wei Martinez,"8300 Burnet Road, Austin, TX 78757",2/16/2026,annual,,Plumbing inspection,,,,(512) 555-0138,wei.martinez73@example.com
+C-1045,David Lewis,"6836 Bee Caves Road, Austin, TX 78746",2/16/2026,semi-annual,,Water heater flush,,,,,david.lewis44@example.com
+C-1035,Kevin Perez,"4501 West Braker Lane, Austin, TX 78759",2026-01-28,,,Electrical safety check,,,yes,(512) 555-0117,kevin.perez34@example.com
+C-1053,Richard Wilson,"204 East Dean Keeton Street, Austin, TX 78705",8/31/2025,semi-annual,,Electrical safety check,,,,(512) 555-0127,richard.wilson52@example.com
+C-1059,Ashley Nguyen,"1013 West Lynn Street, Austin, TX 78703",2025-12-28,,,HVAC maintenance,,,yes,,ashley.nguyen58@example.com
+C-1091,Barbara Johnson,"610 Nueces Street, Austin, TX 78701",,,,Furnace check,,Y,,(512) 555-0148,barbara.johnson90@example.com
+C-1065,Mark Green,"11008 North Lamar Boulevard, Austin, TX 78758",2026-07-16,annual,,HVAC maintenance,,,,(512) 555-0131,mark.green64@example.com
+C-1063,Carol Wright,"3724 Executive Center Drive, Austin, TX 78731",9/20/2026,every 6 months,,Drain cleaning,yes,,,,carol.wright62@example.com
+C-1025,Jorge Green,TBD,Oct 22 2025,,2026-10-11,Drain cleaning,,,,(512) 555-0112,jorge.green24@example.com
+C-1073,Nancy Torres,"1100 West 49th Street, Austin, TX 78756",2026-06-11,annual,,Furnace check,,,,(512) 555-0137,nancy.torres72@example.com
+C-1197,Kevin Young,Austin TX,11/4/2025,,,Water heater flush,,,,,kevin.young196@example.com
+C-1085,David Campbell,"1156 West Cesar Chavez Street, Austin, TX 78703",Jan 12 2026,,,Furnace check,,,,(512) 555-0144,david.campbell84@example.com
+C-1198,Steven Young,"1600 Lavaca Street, Austin, TX 78701",2026-08-27,every 6 months,,Water heater flush,,Y,,,steven.young197@example.com
+C-1043,James Martinez,"8900 Shoal Creek Boulevard, Austin, TX 78757",10/1/2025,,,Furnace check,,,,,james.martinez42@example.com
+C-1169,Joshua Jackson,"503 Colorado Street, Austin, TX 78701",Jan 28 2026,,,Plumbing inspection,,,,,joshua.jackson168@example.com
+C-1061,Carol Wright,"2406 Manor Road, Austin, TX 78722",2026-02-14,quarterly,,Plumbing inspection,,,,(512) 555-0129,carol.wright60@example.com
+C-1162,Brian Thompson,"201 West Saint Elmo Road, Austin, TX 78745",2026-05-12,,,Furnace check,,,yes,,brian.thompson161@example.com
+C-1151,Mark King,"1511 East 6th Street, Austin, TX 78702",2026-04-28,,,Water heater flush,,,yes,(512) 555-0181,mark.king150@example.com
+C-1042,Barbara Lewis,"5607 North Lamar Boulevard, Austin, TX 78751",2026-06-08,,,AC tune-up,yes,,,,barbara.lewis41@example.com
+C-1157,Rosa Torres,"4601 North Lamar Boulevard, Austin, TX 78751",,,,Water heater flush,,,,(512) 555-0185,rosa.torres156@example.com
+C-1040,Linda Green,"3035 Guadalupe Street, Austin, TX 78705",2026-02-07,,,Furnace check,,,,,linda.green39@example.com
+C-1118,Barbara Green,"1200 East 11th Street, Austin, TX 78702",2026-02-02,every 6 months,,HVAC maintenance,,,,,barbara.green117@example.com
+C-1041,David Chen,"11501 Domain Drive, Austin, TX 78758",12/14/2025,semi-annual,,HVAC maintenance,,,,,david.chen40@example.com
+C-1030,Thomas Robinson,"2900 West Anderson Lane, Austin, TX 78757",11/25/2025,,,Water heater flush,,,,(512) 555-0114,thomas.robinson29@example.com
+C-1128,Kevin Wright,"6105 East US Highway 290, Austin, TX 78723",Nov 13 2025,,,Water heater flush,,,,,kevin.wright127@example.com
+C-1058,Thomas Sanchez,"11201 Parkfield Drive, Austin, TX 78758",2026-03-18,,,Electrical safety check,,,,,thomas.sanchez57@example.com
+C-1092,Jessica Walker,"8240 Georgian Drive, Austin, TX 78758",2026-09-07,,,Plumbing inspection,yes,,,,jessica.walker91@example.com
+C-1006,Sarah Baker,"3419 West Slaughter Lane, Austin, TX 78748",6/2/2026,,,HVAC maintenance,,,yes,(512) 555-0102,sarah.baker5@example.com
+C-1114,Priya Chen,PO Box 808,,,,Water heater flush,,,,,priya.chen113@example.com
+C-1121,Richard Rivera,"6711 Manchaca Road, Austin, TX 78745",2025-10-15,,,Plumbing inspection,,,,,richard.rivera120@example.com
+C-1020,Daniel Taylor,"201 West 3rd Street, Austin, TX 78701",2026-09-19,every 6 months,,Water heater flush,,,,,daniel.taylor19@example.com
+C-1055,Omar Patel,"406 Walsh Street, Austin, TX 78703",2025-09-25,,2026-09-16,Plumbing inspection,,,,(512) 555-0128,omar.patel54@example.com
+C-1125,Mark Lopez,Austin TX,2026-01-27,,,HVAC maintenance,,,,,mark.lopez124@example.com
+C-1033,Betty Moore,"12407 North MoPac Expressway, Austin, TX 78758",2026-06-02,,,Electrical safety check,,,,(512) 555-0115,betty.moore32@example.com
+C-1100,Ashley Carter,"7101 Easy Wind Drive, Austin, TX 78752",2026-05-19,,,AC tune-up,,,,(512) 555-0153,ashley.carter99@example.com
+C-1130,Matthew Hill,"3108 Manor Rd, Austin, TX 78723",6/25/2026,semi-annual,,Drain cleaning,,,,(512) 555-0170,matthew.hill129@example.com
+C-1115,Omar Harris,"1906 Miles Avenue, Austin, TX 78745",2026-07-19,,,AC tune-up,,,,(512) 555-0163,omar.harris114@example.com
+C-1012,Priya Kim,"8911 Capital of Texas Highway, Austin, TX 78759",2026-08-12,,,Furnace check,yes,,,(512) 555-0106,priya.kim11@example.com
+C-1026,Ana Lopez,"2201 East Ben White Boulevard, Austin, TX 78744",2025-09-21,90 days,,Water heater flush,yes,,,,ana.lopez25@example.com
+C-1147,Carol Hill,"1011 East 6th Street, Austin, TX 78702",2025-10-07,,,Plumbing inspection,,,,,carol.hill146@example.com
+C-1060,Sarah Green,"5540 North Lamar Boulevard, Austin, TX 78756",2026-09-20,,,Electrical safety check,yes,,,,sarah.green59@example.com
+C-1190,Wei Hill,"4220 West William Cannon Drive, Austin, TX 78749",2025-10-25,quarterly,,Plumbing inspection,,,,,wei.hill189@example.com
+C-1067,Linda Johnson,"3924 Woodbury Drive, Austin, TX 78704",2025-11-16,,,HVAC maintenance,,,,,linda.johnson66@example.com
+C-1122,Richard Campbell,"13000 North Lamar Boulevard, Austin, TX 78753",2026-06-04,annual,,Electrical safety check,,,,,richard.campbell121@example.com
+C-1019,Richard Johnson,"2421 East 7th Street, Austin, TX 78702",2025-10-29,,,Water heater flush,,,,,richard.johnson18@example.com
+C-1021,David Okafor,"701 Crongress Avenue, Austin, TX 78701",2025-10-08,,2026-10-30,Electrical safety check,,,,(512) 555-0109,david.okafor20@example.com
+C-1069,Robert Baker,"1905 Nueces Street, Austin, TX 78705",2026-08-17,,,Plumbing inspection,,,,(512) 555-0134,robert.baker68@example.com
+C-1028,Emily Robinson,"1701 Toomey Road, Austin, TX 78704",5/13/2026,,,Electrical safety check,,,,,emily.robinson27@example.com
+C-1188,Anthony Lee,"2501 West Parmer Lane, Austin, TX 78727",2025-10-26,every 6 months,,Drain cleaning,,,,,anthony.lee187@example.com
+C-1153,Elena Roberts,"105 West 8th Street, Austin, TX 78701",8/26/2026,,,Water heater flush,,,,(512) 555-0182,elena.roberts152@example.com
+C-1203,JORGE WILSON,"7715 East Ben White Boulevard, Austin, TX 78704",2025-10-27,annual,,Furnace check,,,,,jorge.wilson12@example.com
+C-1106,David Thompson,"400 Lavaca Street, Austin, TX 78701",9/30/2025,,,Plumbing inspection,,,,(512) 555-0158,david.thompson105@example.com
+C-1087,Sandra Garcia,"701 North Interstate Highway 35 Service Road, Austin, TX 78702",2025-10-01,90 days,,Electrical safety check,,,,(512) 555-0146,sandra.garcia86@example.com
+C-1029,Fatima Baker,"6701 Arroyo Seco, Austin, TX 78757",Sep 23 2025,,,Furnace check,,,,,fatima.baker28@example.com
+C-1109,Amanda Roberts,"1607 San Jacinto Boulevard, Austin, TX 78701",2025-10-16,,,HVAC maintenance,,,,,amanda.roberts108@example.com
+C-1022,William Scott,"8400 Research Boulevard, Austin, TX 78757",8/8/2026,,2026-09-19,Electrical safety check,yes,Y,,(512) 555-0110,william.scott21@example.com
+C-1103,Wei Davis,"206 Colorado Street, Austin, TX 78701",3/28/2026,,,HVAC maintenance,,,yes,(512) 555-0156,wei.davis102@example.com
+C-1095,Thomas Lopez,"10405 Metric Boulevard, Austin, TX 78758",2026-03-19,semi-annual,,AC tune-up,,,,,thomas.lopez94@example.com
+C-1072,Matthew Martin,"9616 North Lamar, Austin, TX 78753",2026-03-17,,,AC tune-up,,,yes,,matthew.martin71@example.com
+C-1093,Richard Sanchez,"5425 North Interstate Highway 35, Austin, TX 78723",2026-02-08,,,HVAC maintenance,,,,,richard.sanchez92@example.com
+C-1201,ANTHONY ALLEN,"1100 Center Ridge Drive, Austin, TX 78753",2025-10-18,,,Water heater flush,yes,,,,anthony.allen10@example.com
+C-1127,Richard Patel,"1920 South Congress Avenue, Austin, TX 78704",9/27/2026,every 6 months,,AC tune-up,,,,,richard.patel126@example.com
+C-1164,Sarah Baker,"4101 Parkstone Heights Drive, Austin, TX 78746",Jul 1 2026,,,Furnace check,,,,,sarah.baker163@example.com
+C-1172,Elizabeth Harris,TBD,Aug 3 2026,semi-annual,,Drain cleaning,,,,,elizabeth.harris171@example.com
+C-1154,Raj Thomas,"720 West 6th Street, Austin, TX 78701",2025-10-04,quarterly,,Drain cleaning,,,,(512) 555-0183,raj.thomas153@example.com
+C-1136,Robert Lewis,"127 East Riverside Drive, Austin, TX 78704",2025-11-29,semi-annual,,HVAC maintenance,,,,(512) 555-0174,robert.lewis135@example.com
+C-1111,Ashley Clark,"4107 Medical Parkway, Austin, TX 78756",10/12/2025,,,Drain cleaning,,,yes,(512) 555-0161,ashley.clark110@example.com
+C-1189,Linda Sanchez,"511 Industrial Boulevard, Austin, TX 78745",2026-02-22,quarterly,,Water heater flush,,,,,linda.sanchez188@example.com
+C-1007,Barbara Hall,"7201 Wood Hollow Drive, Austin, TX 78731",,,,Drain cleaning,,,,(512) 555-0103,barbara.hall6@example.com
+C-1016,Linda Walker,"3003 South Lamar Boulevard, Austin, TX 78704",2026-03-06,,,Drain cleaning,yes,,yes,(512) 555-0108,linda.walker15@example.com
+C-1082,Kevin Patel,"11615 Angus Road, Austin, TX 78759",2026-02-04,,2026-10-24,Drain cleaning,yes,,,,kevin.patel81@example.com
+C-1110,Michael Young,"9015 Mountain Ridge Drive, Austin, TX 78759",9/12/2025,,,Drain cleaning,,,,(512) 555-0160,michael.young109@example.com
+C-1056,Michael Garcia,"2100 South Lamar Boulevard, Austin, TX 78704",2026-01-28,,,Water heater flush,,,,,michael.garcia55@example.com
+C-1024,Ashley Patel,"11220 Ranch Road 2222, Austin, TX 78730",9/4/2026,annual,,Drain cleaning,,,,,ashley.patel23@example.com
+C-1008,Daniel Moore,"2152 San Jacinto Boulevard, Austin, TX 78712",2026-01-01,,,Water heater flush,,,,,daniel.moore7@example.com
+C-1199,Jessica Kim,"2807 San Jacinto Boulevard, Austin, TX 78705",2026-09-09,,2026-10-16,AC tune-up,,,,,jessica.kim198@example.com
+C-1184,Emily Nguyen,"507 Pressler Street, Austin, TX 78703",,,,Furnace check,,,,,emily.nguyen183@example.com
+C-1027,Carol Patel,"312 Barton Springs Road, Austin, TX 78704",Jul 6 2026,,2026-09-27,Water heater flush,,,,(512) 555-0113,carol.patel26@example.com
+C-1179,Andrew Flores,"5029 Manor Road, Austin, TX 78723",Oct 11 2025,,,Furnace check,,,$450,,andrew.flores178@example.com
+C-1148,Jorge Adams,"11915 Stonehollow Drive, Austin, TX 78758",May 8 2026,semi-annual,,Drain cleaning,,,,,jorge.adams147@example.com
+C-1120,Rosa Roberts,PO Box 893,,,,Furnace check,,,,(512) 555-0166,rosa.roberts119@example.com
+C-1104,Fatima Walker,"1105 West Anderson Lane, Austin, TX 78757",Feb 4 2026,semi-annual,,Furnace check,,,,(512) 555-0157,fatima.walker103@example.com
+C-1145,Andrew Robinson,"617 West 29th Street, Austin, TX 78705",2026-04-11,90 days,,Furnace check,,,,(512) 555-0178,andrew.robinson144@example.com
+C-1155,Rosa Davis,"1902 East 12th Street, Austin, TX 78702",8/31/2026,semi-annual,,AC tune-up,,,,(512) 555-0184,rosa.davis154@example.com
+C-1146,Jorge Anderson,"12419 Metric Boulevard, Austin, TX 78758",,,,Drain cleaning,,,,(512) 555-0179,jorge.anderson145@example.com
+C-1075,William Young,"4225 Guadalupe Street, Austin, TX 78751",,,,Furnace check,,,,,william.young74@example.com
+C-1113,Elena Rivera,"500 West Martin Luther King Jr Boulevard, Austin, TX 78705",2026-05-25,,,AC tune-up,,,yes,(512) 555-0162,elena.rivera112@example.com
+C-1057,Linda Thomas,"12410 North Lamar Boulevard, Austin, TX 78753",2025-11-29,quarterly,,Drain cleaning,,,,,linda.thomas56@example.com
+C-1180,Nancy Flores,"301 East Dean Keeton Street, Austin, TX 78712",7/14/2026,every 6 months,,Water heater flush,,,,,nancy.flores179@example.com
+C-1010,Michelle Baker,"10230 E H Bellards Road, Austin, TX 78758",7/9/2026,,,Electrical safety check,,,,(512) 555-0105,michelle.baker9@example.com
+C-1187,Kevin Nelson,"9602 Gray Boulevard, Austin, TX 78758",Jul 19 2026,,,Water heater flush,,,yes,,kevin.nelson186@example.com
+C-1191,Jorge Scott,PO Box 233,2025-09-06,,,Drain cleaning,,,,,jorge.scott190@example.com
+C-1018,Omar Roberts,"7115 Woodrow Avenue, Austin, TX 78757",2026-08-18,,,Plumbing inspection,,,,,omar.roberts17@example.com
+C-1137,Susan Adams,"2005 Wheless Lane, Austin, TX 78723",2026-04-01,,,HVAC maintenance,,,,,susan.adams136@example.com
+C-1003,Betty Carter,"111 Congress Ave., Austin, TX 78701",2025-10-17,,,Furnace check,,,,(512) 555-0100,betty.carter2@example.com
+C-1176,Steven Garcia,"4515 Seton Center Parkway, Austin, TX 78759",12/27/2025,semi-annual,,AC tune-up,,,,,steven.garcia175@example.com
+C-1156,Elizabeth Garcia,"10100 North Lamar Boulevard, Austin, TX 78753",11/5/2025,quarterly,,AC tune-up,,,,,elizabeth.garcia155@example.com
+C-1171,Luis Martinez,"91 Rainey Street, Austin, TX 78701",2025-09-18,annual,,Electrical safety check,,,,,luis.martinez170@example.com
+C-1117,Robert Thompson,"5415 North Lamar Boulevard, Austin, TX 78751",2025-10-05,annual,,Furnace check,,,,(512) 555-0165,robert.thompson116@example.com
+C-1158,Ana Clark,Austin TX,2025-11-27,,2026-10-30,Electrical safety check,,,,(512) 555-0186,ana.clark157@example.com
+C-1088,Susan Taylor,"2610 San Jacinto Boulevard, Austin, TX 78705",2025-12-13,,,Water heater flush,,,,,susan.taylor87@example.com
+C-1094,Thomas Carter,"642 Calles Street, Austin, TX 78702",,,,Water heater flush,,,,(512) 555-0149,thomas.carter93@example.com
+C-1037,Anthony Rivera,"720 West 34th Street, Austin, TX 78705",2026-07-12,,,Water heater flush,,,,(512) 555-0119,anthony.rivera36@example.com
+C-1193,Richard Harris,"9600 North MoPac Expressway, Austin, TX 78759",2026-04-17,,,Drain cleaning,,,$450,,richard.harris192@example.com
+C-1126,Steven Anderson,"4930 South Congress Avenue, Austin, TX 78745",9/1/2026,90 days,,Furnace check,yes,,,,steven.anderson125@example.com
+C-1119,Joshua Allen,"2157 Gaston Place Drive, Austin, TX 78723",2025-12-25,annual,,Water heater flush,,,,,joshua.allen118@example.com
+C-1096,Betty Clark,"9709 Brown Lane, Austin, TX 78754",,,,Water heater flush,,,,(512) 555-0150,betty.clark95@example.com
+C-1181,Jorge Garcia,"3120 Kramer Lane, Austin, TX 78758",,,,AC tune-up,,,,,jorge.garcia180@example.com
+C-1054,Joshua Singh,"2244 Guadalupe Street, Austin, TX 78705",7/21/2026,90 days,,Furnace check,,Y,,,joshua.singh53@example.com
+C-1167,Lisa Martinez,"5816 North Interstate Highway 35 Service Road, Austin, TX 78751",Mar 4 2026,,,AC tune-up,,,$450,,lisa.martinez166@example.com
+C-1034,Luis Singh,"2218 College Avenue, Austin, TX 78704",2026-02-06,,,HVAC maintenance,,,,(512) 555-0116,luis.singh33@example.com
+C-1202,PRIYA KIM,"8911 Capital of Texas Highway, Austin, TX 78759",2026-08-12,,,Furnace check,yes,,,512-555-0106,priya.kim11@example.com
+C-1166,Nancy Smith,"500 West Canyon Ridge Drive, Austin, TX 78753",,,,HVAC maintenance,,,,,nancy.smith165@example.com
+C-1174,Matthew Johnson,"517 Thompson Lane, Austin, TX 78742",2025-11-12,quarterly,,Plumbing inspection,,,,,matthew.johnson173@example.com
+C-1139,Brian Sanchez,"1901 East Martin Luther King Jr Boulevard, Austin, TX 78702",,,,Electrical safety check,,,,,brian.sanchez138@example.com
+C-1112,Elena Wilson,"4544 South Lamar Boulevard, Austin, TX 78745",Sep 7 2026,,,Water heater flush,,,,,elena.wilson111@example.com
+C-1098,Carlos Flores,"2611 Manor Road, Austin, TX 78722",2025-12-19,,,Electrical safety check,,,,,carlos.flores97@example.com
+C-1064,Robert Okafor,"4600 Seton Center Parkway, Austin, TX 78759",5/29/2026,annual,,Furnace check,,,,,robert.okafor63@example.com
+C-1078,Ana Baker,"716 Congress Avenue, Austin, TX 78701",2026-02-10,every 6 months,,HVAC maintenance,,,,(512) 555-0140,ana.baker77@example.com
+C-1079,Rosa Sanchez,"106 Congress Avenue, Austin, TX 78701",2026-01-17,,,HVAC maintenance,,,,(512) 555-0141,rosa.sanchez78@example.com
+C-1014,Matthew Allen,"9700 Stonelake Boulevard, Austin, TX 78759",2026-05-04,,,Furnace check,,,$450,(512) 555-0107,matthew.allen13@example.com
+C-1108,Wei Carter,"208 Barton Springs Road, Austin, TX 78704",9/29/2026,quarterly,,Plumbing inspection,yes,,,,wei.carter107@example.com
+C-1131,Luis Young,"741 Dalton Lane, Austin, TX 78742",2025-12-14,,,Furnace check,,,$450,(512) 555-0171,luis.young130@example.com
+C-1102,James Mitchell,"2505 East 6th Street, Austin, TX 78702",2026-04-23,,,Drain cleaning,,,yes,(512) 555-0155,james.mitchell101@example.com
+C-1143,Rosa Carter,"2514 West Parmer Lane, Austin, TX 78727",1/29/2026,semi-annual,,Plumbing inspection,,,,(512) 555-0176,rosa.carter142@example.com
+C-1077,Sandra Davis,"10503 Metropolitan Drive, Austin, TX 78758",2025-12-22,,2026-09-24,HVAC maintenance,,,,,sandra.davis76@example.com
+C-1170,Daniel White,"621 Gunter Street, Austin, TX 78702",2026-01-24,semi-annual,,HVAC maintenance,,,,,daniel.white169@example.com
+C-1066,Patricia Sanchez,"1003 West 34th Street, Austin, TX 78705",2025-10-22,quarterly,,Water heater flush,,,,(512) 555-0132,patricia.sanchez65@example.com
+C-1099,Hiro Walker,"2700 South Lamar Boulevard, Austin, TX 78704",,,,Water heater flush,,,,(512) 555-0152,hiro.walker98@example.com
+C-1081,Maria Smith,"301 West 3rd Street, Austin, TX 78701",Jan 18 2026,annual,,HVAC maintenance,,,,,maria.smith80@example.com
+C-1023,Priya Mitchell,"5300 Manchaca Road, Austin, TX 78745",2026-08-15,,,HVAC maintenance,,,,(512) 555-0111,priya.mitchell22@example.com
+C-1068,Ana Davis,"6539 North Lamar Boulevard, Austin, TX 78752",2026-09-23,every 6 months,,Furnace check,,,,(512) 555-0133,ana.davis67@example.com
+C-1134,Ashley Wilson,"234 West 2nd Street, Austin, TX 78701",1/13/2026,,,Electrical safety check,,,yes,,ashley.wilson133@example.com
+C-1071,Betty Moore,"8140 North MoPac Expressway, Austin, TX 78759",Feb 6 2026,,,Plumbing inspection,,,,(512) 555-0136,betty.moore70@example.com
+C-1138,Sarah Hernandez,"2301 Trinity Street, Austin, TX 78712",Sep 17 2025,90 days,,AC tune-up,,,,,sarah.hernandez137@example.com
+C-1048,Robert Taylor,"10900 Research Boulevard, Austin, TX 78759",Jul 17 2026,,2026-11-04,Drain cleaning,,,,(512) 555-0124,robert.taylor47@example.com
+C-1002,Karen Singh,"522 Congress Avenue, Austin, TX 78701",,,,Plumbing inspection,,,,,karen.singh1@example.com
+C-1133,Jessica Flores,"2207 Justin Lane, Austin, TX 78757",2025-09-18,,,Plumbing inspection,,,,,jessica.flores132@example.com
+C-1049,Karen Clark,"8030 Mesa Drive, Austin, TX 78731",2026-01-21,quarterly,,Electrical safety check,,,,,karen.clark48@example.com
+C-1200,Jessica Brown,"1000 West Lynn St, Austin, TX 78703",2026-08-08,,,Plumbing inspection,,,,,jessica.brown199@example.com
+C-1083,Jessica Davis,"3201 Bee Caves Road, Austin, TX 78746",Mar 8 2026,90 days,,Water heater flush,,,,(512) 555-0142,jessica.davis82@example.com
+C-1038,Joseph Adams,"9705 Burnet Road, Austin, TX 78758",,,,Water heater flush,,,,(512) 555-0120,joseph.adams37@example.com
+C-1161,Ana Perez,"2501 Red River Street, Austin, TX 78705",2025-09-04,,,Electrical safety check,,,,,ana.perez160@example.com
+C-1013,Jorge Wilson,"7715 East Ben White Boulevard, Austin, TX 78704",2025-10-27,annual,,Furnace check,,,,,jorge.wilson12@example.com
+C-1105,Sandra Smith,"5555 Lamar Boulevard, Austin, TX 78751",2026-02-05,,,Drain cleaning,,,,,sandra.smith104@example.com
+C-1036,Anthony Adams,"5602 Clay Avenue, Austin, TX 78756",Aug 26 2025,90 days,,Plumbing inspection,,,,(512) 555-0118,anthony.adams35@example.com
+C-1150,Nancy Scott,"4534 Westgate Boulevard, Austin, TX 78745",May 28 2026,semi-annual,,Plumbing inspection,,,,(512) 555-0180,nancy.scott149@example.com
+C-1107,William Robinson,"2200 S Lamar Blvd, Austin, TX 78704",2026-04-23,semi-annual,,Drain cleaning,,,,(512) 555-0159,william.robinson106@example.com
+C-1192,Ana Lewis,"1122 Colorado Street, Austin, TX 78701",2026-03-18,annual,,Plumbing inspection,,,,,ana.lewis191@example.com
+C-1177,Joshua Brown,"6801 Airport Boulevard, Austin, TX 78752",6/7/2026,,,Furnace check,,,,,joshua.brown176@example.com
+C-1141,Brian White,"10401 Research Boulevard, Austin, TX 78759",3/19/2026,,,Electrical safety check,,,,,brian.white140@example.com
+C-1015,Lisa Jackson,"7109 Woodrow Avenue, Austin, TX 78757",2026-07-31,,2026-10-21,Drain cleaning,,,,,lisa.jackson14@example.com
+C-1124,Hiro Thomas,"901 West Braker Lane, Austin, TX 78753",,,,Furnace check,,,,(512) 555-0168,hiro.thomas123@example.com
+C-1086,Donna Moore,"4017 Guadalupe Street, Austin, TX 78751",11/11/2025,90 days,,Water heater flush,,,,(512) 555-0145,donna.moore85@example.com
+C-1183,Rosa King,"10961 Research Boulevard, Austin, TX 78759",,,,Plumbing inspection,yes,,,,rosa.king182@example.com
+C-1052,Donna Clark,"718 Congress Avenue, Austin, TX 78701",2026-09-29,90 days,,Plumbing inspection,,,,(512) 555-0126,donna.clark51@example.com
+C-1175,Jennifer Patel,"1304 West Koenig Lane, Austin, TX 78756",Apr 20 2026,quarterly,,HVAC maintenance,,,,,jennifer.patel174@example.com

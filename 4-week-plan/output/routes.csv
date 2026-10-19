@@ -1,0 +1,50 @@
+﻿Day,Crew member,Stop,Job,Customer,Address,Arrive,Start,Finish,Window,Skill,Drive from previous (min),Wait (min)
+Mon 26 Oct 2026,Dana Ruiz,1,J-009,Susan Scott,"101 West Koenig Lane, Austin, TX 78751",07:37,07:37,09:07,any time,plumbing,7.9,0
+Mon 26 Oct 2026,Dana Ruiz,2,J-004,Kevin Ramirez,"3300 Duval Road, Austin, TX 78759",09:22,09:22,11:22,08:00-12:00,plumbing,14.9,0
+Mon 26 Oct 2026,Dana Ruiz,3,J-010,Steven Anderson,"4600 Seton Center Parkway, Austin, TX 78759",11:27,12:00,13:15,12:00-16:00,plumbing,5.0,32
+Mon 26 Oct 2026,Dana Ruiz,4,J-016,Carlos Brown,"1908 Kramer Lane, Austin, TX 78758",13:21,13:21,13:51,12:00-16:00,hvac,6.9,0
+Mon 26 Oct 2026,Dana Ruiz,5,J-006,Wei Mitchell,"1801 East 51st Street, Austin, TX 78723",14:07,14:07,14:52,14:00-16:00,plumbing,15.3,0
+Mon 26 Oct 2026,Marcus Lee,1,J-008,Joshua Robinson,"4600 Teri Road, Austin, TX 78744",08:08,08:08,09:08,08:00-12:00,hvac,8.6,0
+Mon 26 Oct 2026,Marcus Lee,2,J-001,Donna Baker,"501 West Powell Lane, Austin, TX 78753",09:27,09:27,11:27,any time,hvac,19.4,0
+Mon 26 Oct 2026,Marcus Lee,3,J-013,Lisa Sanchez,"8015 Shoal Creek Boulevard, Austin, TX 78757",11:35,11:35,13:05,any time,hvac,7.3,0
+Mon 26 Oct 2026,Marcus Lee,4,J-015,Elena Brown,"7000 Hester Road, Austin, TX 78725",13:35,13:35,14:20,12:00-16:00,hvac,30.3,0
+Mon 26 Oct 2026,Marcus Lee,5,J-005,Linda Smith,"7000 Woodhue Drive, Austin, TX 78745",14:45,14:45,15:30,12:00-16:00,hvac,24.7,0
+Mon 26 Oct 2026,Priya Shah,1,J-002,Omar Wilson,"8700 Menchaca Road, Austin, TX 78748",07:20,08:00,08:30,08:00-12:00,electrical,20.1,40
+Mon 26 Oct 2026,Priya Shah,2,J-011,David Lewis,"4534 Westgate Boulevard, Austin, TX 78745",08:38,08:38,10:08,08:00-11:00,plumbing,8.2,0
+Mon 26 Oct 2026,Priya Shah,3,J-014,Betty Hall,"401 Deep Eddy Avenue, Austin, TX 78703",10:16,10:16,11:46,09:00-12:00,plumbing,8.2,0
+Mon 26 Oct 2026,Priya Shah,4,J-007,Thomas Rivera,"7102 Meadowood Drive, Austin, TX 78723",12:03,12:03,12:48,12:00-16:00,plumbing,16.8,0
+Mon 26 Oct 2026,Priya Shah,5,J-012,Luis Harris,"4601 Pecan Brook Drive, Austin, TX 78724",12:52,12:52,14:22,any time,plumbing,4.8,0
+Mon 26 Oct 2026,Priya Shah,6,J-003,William Jackson,"3811 East 12th Street, Austin, TX 78721",14:33,14:33,15:18,14:00-16:00,plumbing,10.5,0
+Tue 27 Oct 2026,Dana Ruiz,1,J-017,Elizabeth Carter,"13000 North Lamar Boulevard, Austin, TX 78753",07:41,11:00,11:30,11:00-13:00,hvac,11.1,199
+Tue 27 Oct 2026,Marcus Lee,1,J-019,Michelle Walker,"1845 Burton Drive, Austin, TX 78741",08:08,08:08,09:23,any time,hvac,8.2,0
+Tue 27 Oct 2026,Marcus Lee,2,J-018,William Baker,"4477 South Lamar Boulevard, Austin, TX 78745",09:34,09:34,10:19,08:00-12:00,hvac,11.2,0
+Wed 28 Oct 2026,Dana Ruiz,1,J-026,Sarah Walker,"5914 Lost Horizon Drive, Austin, TX 78759",07:41,08:00,08:30,08:00-10:00,plumbing,11.8,18
+Wed 28 Oct 2026,Dana Ruiz,2,J-032,Lisa Patel,"10902 Windridge Drive, Austin, TX 78759",08:36,09:00,10:00,09:00-11:00,plumbing,6.2,24
+Wed 28 Oct 2026,Dana Ruiz,3,J-029,Betty Hall,"11700 Metric Boulevard, Austin, TX 78758",10:13,10:13,11:43,09:00-12:00,hvac,13.7,0
+Wed 28 Oct 2026,Dana Ruiz,4,J-035,Michelle White,"3908 West Braker Lane, Austin, TX 78759",11:49,11:49,12:49,11:00-13:00,hvac,5.5,0
+Wed 28 Oct 2026,Marcus Lee,1,J-033,Michelle Scott,"1900 East Oltorf Street, Austin, TX 78741",08:07,08:07,08:37,08:00-12:00,hvac,7.2,0
+Wed 28 Oct 2026,Marcus Lee,2,J-021,Omar Walker,"7501 Longview Road, Austin, TX 78745",08:52,08:52,09:37,08:00-12:00,hvac,15.8,0
+Wed 28 Oct 2026,Marcus Lee,3,J-024,Patricia Brown,"4006 South Lamar Boulevard, Austin, TX 78704",09:47,14:00,15:00,14:00-16:00,hvac,9.9,252
+Wed 28 Oct 2026,Priya Shah,1,J-027,Anthony Chen,"1605 East Oltorf, Austin, TX 78741",07:10,07:10,07:40,any time,plumbing,10.3,0
+Wed 28 Oct 2026,Priya Shah,2,J-028,Sandra Campbell,"2821 San Jacinto Boulevard, Austin, TX 78705",07:48,09:00,10:15,09:00-12:00,electrical,8.7,71
+Wed 28 Oct 2026,Priya Shah,3,J-023,Joshua Lee,"11150 Research Boulevard, Austin, TX 78759",10:31,10:31,11:01,any time,electrical,16.9,0
+Wed 28 Oct 2026,Priya Shah,4,J-030,Omar Wilson,"2901 S Capital Of Texas Hwy Ste F4, Austin, TX 78746",11:21,11:21,12:21,11:00-13:00,electrical,19.2,0
+Wed 28 Oct 2026,Priya Shah,5,J-031,Betty Carter,"2223 Waterloo City Lane, Austin, TX 78741",12:36,12:36,14:06,12:00-16:00,plumbing,15.1,0
+Wed 28 Oct 2026,Priya Shah,6,J-020,Omar Clark,"4631 Airport Boulevard, Austin, TX 78751",14:18,14:18,15:18,12:00-16:00,electrical,12.2,0
+Thu 29 Oct 2026,Dana Ruiz,1,J-038,Anthony Green,"1207 East Dean Keeton Street, Austin, TX 78722",07:40,07:40,08:55,any time,hvac,10.7,0
+Thu 29 Oct 2026,Dana Ruiz,2,J-036,Joshua Allen,"10307 Morado Cove, Austin, TX 78759",09:11,13:00,14:00,13:00-15:00,plumbing,15.4,229
+Thu 29 Oct 2026,Priya Shah,1,J-037,William Thompson,"7612 Cooper Lane, Austin, TX 78745",07:17,07:17,08:02,any time,electrical,17.9,0
+Fri 30 Oct 2026,Dana Ruiz,1,J-049,Patricia Campbell,"3600 Silver Dollar Circle, Austin, TX 78744",07:49,08:00,10:00,08:00-12:00,plumbing,19.9,10
+Fri 30 Oct 2026,Dana Ruiz,2,J-054,Joshua Young,"10610 Morado Circle, Austin, TX 78759",10:24,10:24,11:09,08:00-12:00,hvac,24.9,0
+Fri 30 Oct 2026,Dana Ruiz,3,J-045,Maria Okafor,"6517 Cascada Drive, Austin, TX 78750",11:18,11:18,12:33,any time,plumbing,8.8,0
+Fri 30 Oct 2026,Dana Ruiz,4,J-051,William Anderson,"11701 Domain Blvd, Austin, TX 78758",12:43,12:43,13:58,any time,hvac,10.1,0
+Fri 30 Oct 2026,Dana Ruiz,5,J-042,Thomas King,"1901 West Braker Lane, Austin, TX 78758",14:03,14:03,15:33,any time,plumbing,5.0,0
+Fri 30 Oct 2026,Marcus Lee,1,J-050,Joseph Martinez,"205 East Monroe Street, Austin, TX 78704",08:06,08:06,08:51,any time,hvac,6.5,0
+Fri 30 Oct 2026,Marcus Lee,2,J-043,Barbara Flores,"2508 East Riverside Drive, Austin, TX 78741",08:58,08:58,09:43,any time,hvac,6.9,0
+Fri 30 Oct 2026,Marcus Lee,3,J-041,Brian Hall,"3604 Axel Lane, Austin, TX 78721",09:55,12:00,12:30,12:00-16:00,hvac,12.4,124
+Fri 30 Oct 2026,Marcus Lee,4,J-053,Nancy Brown,"741 Dalton Lane, Austin, TX 78742",12:46,12:46,14:01,any time,hvac,16.1,0
+Fri 30 Oct 2026,Priya Shah,1,J-048,Donna Mitchell,"1001 East 52nd Street, Austin, TX 78751",07:06,08:00,09:15,08:00-12:00,plumbing,6.3,54
+Fri 30 Oct 2026,Priya Shah,2,J-046,Wei Okafor,"1931 E Oltorf St, Austin, TX 78741",09:25,09:25,11:25,08:00-12:00,electrical,10.4,0
+Fri 30 Oct 2026,Priya Shah,3,J-044,Daniel Brown,"3903 Warehouse Row, Austin, TX 78704",11:30,11:30,12:15,any time,electrical,5.5,0
+Fri 30 Oct 2026,Priya Shah,4,J-052,Robert Walker,"6700 West Gate Boulevard, Austin, TX 78745",12:25,12:25,13:10,any time,electrical,9.6,0
+Fri 30 Oct 2026,Priya Shah,5,J-039,Wei Lopez,"5608 Parkcrest Drive, Austin, TX 78731",13:27,13:27,14:27,any time,plumbing,17.1,0

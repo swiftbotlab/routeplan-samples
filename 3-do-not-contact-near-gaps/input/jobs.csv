@@ -1,0 +1,19 @@
+Job ID,Customer,Address,Duration (min),Window Start,Window End,Skill Required
+J-014,Fatima Moore,"1809 Randolph Ridge Trail, Austin, TX 78746",90,12:00,16:00,hvac
+J-010,Jessica Carter,"1005 Kramer Lane, Austin, TX 78758",30,14:00,16:00,electrical
+J-003,Donna Moore,"2021 East Riverside Drive, Austin, TX 78741",45,08:00,12:00,hvac
+J-001,Kevin Anderson,"10902 Windridge Drive, Austin, TX 78759",45,08:00,12:00,plumbing
+J-006,Steven Thompson,"6100 East Riverside Drive, Austin, TX 78741",60,14:00,16:00,plumbing
+J-011,Sandra Lee,"8700 Menchaca Road, Austin, TX 78748",30,08:00,12:00,hvac
+J-002,Omar Okafor,"2712 Bee Caves Road, Austin, TX 78746",45,,,plumbing
+J-008,Jorge White,"4600 Teri Road, Austin, TX 78744",30,12:00,16:00,electrical
+J-013,Betty Torres,"2512 Wheless Lane, Austin, TX 78723",60,10:00,12:00,hvac
+J-015,Donna Smith,"700 Lavaca Street, Austin, TX 78701",120,12:00,16:00,plumbing
+J-017,Jorge Martinez,"111 West William Cannon Drive, Austin, TX 78745",60,13:00,15:00,plumbing
+J-007,Andrew Johnson,"500 East Saint John's Avenue, Austin, TX 78752",60,,,plumbing
+J-018,Sandra Rivera,"1020 Grove Boulevard, Austin, TX 78741",45,,,plumbing
+J-005,Barbara Mitchell,"2407 Berkeley Avenue, Austin, TX 78745",75,,,hvac
+J-016,Joseph Carter,"11705 North Lamar Boulevard, Austin, TX 78753",45,08:00,12:00,plumbing
+J-004,Amanda Hill,"1205 Sheldon Cove, Austin, TX 78753",60,09:00,11:00,plumbing
+J-009,Steven Roberts,"300 East 4th Street, Austin, TX 78701",30,,,hvac
+J-012,Emily Wright,"5701 Springdale Road, Austin, TX 78723",60,,,plumbing
